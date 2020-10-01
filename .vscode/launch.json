@@ -1,0 +1,11 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - math",
+            "request": "launch",
+            "mainClass": "math",
+            "projectName": "Hacktober2020_5b9d3cb3"
+        }
+    ]
+}
